@@ -1,0 +1,12 @@
+name: wbtv_cashflow
+title: WBTV Cashflow
+username: Shuang.Li@wbconsultant.com
+account: Shuang.Li@wbconsultant.com
+server: datascience.wb.com
+hostUrl: https://datascience.wb.com/__api__
+appId: 272
+bundleId: 2746
+url: https://datascience.wb.com/content/272/
+when: 1610147649.20748
+asMultiple: FALSE
+asStatic: FALSE
